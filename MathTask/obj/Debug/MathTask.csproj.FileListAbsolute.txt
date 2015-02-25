@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2013\Projects\MathTask\MathTask\bin\Debug\MathTask.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\MathTask\MathTask\bin\Debug\MathTask.exe
+c:\users\andrew\documents\visual studio 2013\Projects\MathTask\MathTask\bin\Debug\MathTask.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\MathTask\MathTask\obj\Debug\MathTask.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2013\Projects\MathTask\MathTask\obj\Debug\MathTask.MATH.resources
+c:\users\andrew\documents\visual studio 2013\Projects\MathTask\MathTask\obj\Debug\MathTask.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2013\Projects\MathTask\MathTask\obj\Debug\MathTask.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2013\Projects\MathTask\MathTask\obj\Debug\MathTask.exe
+c:\users\andrew\documents\visual studio 2013\Projects\MathTask\MathTask\obj\Debug\MathTask.pdb
